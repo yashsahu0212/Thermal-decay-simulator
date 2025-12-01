@@ -4,7 +4,7 @@ A Python Tkinter application that visualizes *Newton’s Law of Cooling* with in
 
 ---
 
-## 📌 Overview
+## Overview
 
 The *Thermal Decay Simulator* demonstrates how an object cools or warms based on Newton’s Law of Cooling.
 
@@ -27,23 +27,23 @@ The app allows users to:
 
 ---
 
-## 🚀 Features
+##  Features
 
-### ✔ Interactive Inputs
+###  Interactive Inputs
 - Initial Temperature (T0)
 - Ambient Temperature (T_env)
 - Cooling Constant (k)
 - Maximum Time (t_max)
 - Resolution / Number of Points
 
-### ✔ Real-Time Graph
+###  Real-Time Graph
 - Clean temperature vs. time plot
 - Dark-themed UI
 - Shaded area under curve
 
-### ✔ Built-in Scenarios
-- ☕ Hot coffee cooling  
-- 🧊 Iced tea warming  
-- 🕵 Forensic body cooling  
-- 🔥 Metal quenching  
--
+###  Built-in Scenarios
+-  Hot coffee cooling  
+- Iced tea warming  
+-  Forensic body cooling  
+-  Metal quenching  
+
